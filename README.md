@@ -2,6 +2,10 @@
 
 ## 📊 Project Overview
 
+## 📊 Power BI Dashboard
+
+![Retail Sales Dashboard](Retail_Sales_dashboard.png)
+
 This project analyzes retail sales data using MySQL and Power BI to identify sales trends, customer patterns, product category performance, and key business insights.
 
 ## 🛠️ Tools Used
